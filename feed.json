@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://halli77.github.io/kiko2/jubilaeumskonzert-100-jahre-chor.html",
+            "url": "https://halli77.github.io/kiko2/jubilaeumskonzert-100-jahre-chor.html",
+            "title": "Jubiläumskonzert 100 Jahre Chor",
+            "summary": "<p>Bla blubb</p>\n",
+            "content_html": "<p>Bla blubb</p>\n\n<p>und weiter</p>",
+            "image": "https://halli77.github.io/kiko2/media/posts/9/PA270075_1.jpg",
+            "author": {
+                "name": "Michael"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-02T09:30:11+01:00",
+            "date_modified": "2026-03-02T09:30:11+01:00"
+        },
+        {
             "id": "https://halli77.github.io/kiko2/unsere-neue-homepage.html",
             "url": "https://halli77.github.io/kiko2/unsere-neue-homepage.html",
             "title": "Unsere neue Homepage",

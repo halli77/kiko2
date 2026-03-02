@@ -3,12 +3,38 @@
     <title>Kirchenchor Lauchringen</title>
     <link href="https://halli77.github.io/kiko2/feed.xml" rel="self" />
     <link href="https://halli77.github.io/kiko2" />
-    <updated>2026-02-23T16:15:20+01:00</updated>
+    <updated>2026-03-02T09:30:11+01:00</updated>
     <author>
         <name>Michael</name>
     </author>
     <id>https://halli77.github.io/kiko2</id>
 
+    <entry>
+        <title>Jubiläumskonzert 100 Jahre Chor</title>
+        <author>
+            <name>Michael</name>
+        </author>
+        <link href="https://halli77.github.io/kiko2/jubilaeumskonzert-100-jahre-chor.html"/>
+        <id>https://halli77.github.io/kiko2/jubilaeumskonzert-100-jahre-chor.html</id>
+        <media:content url="https://halli77.github.io/kiko2/media/posts/9/PA270075_1.jpg" medium="image" />
+
+        <updated>2026-03-02T09:30:11+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://halli77.github.io/kiko2/media/posts/9/PA270075_1.jpg" alt="" />
+                    <p>Bla blubb</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://halli77.github.io/kiko2/media/posts/9/PA270075_1.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Bla blubb</p>
+
+<p>und weiter</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Unsere neue Homepage</title>
         <author>

@@ -2,21 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Kirchenchor Lauchringen",
     "description": "",
-    "home_page_url": "https://github.com/halli77/kiko2",
-    "feed_url": "https://github.com/halli77/kiko2/feed.json",
+    "home_page_url": "https://halli77.github.io/kiko2",
+    "feed_url": "https://halli77.github.io/kiko2/feed.json",
     "user_comment": "",
-    "icon": "https://github.com/halli77/kiko2/media/website/Bildschirmfoto-2026-03-02-um-08.32.41.png",
+    "icon": "https://halli77.github.io/kiko2/media/website/Bildschirmfoto-2026-03-02-um-08.32.41.png",
     "author": {
         "name": "Michael"
     },
     "items": [
         {
-            "id": "https://github.com/halli77/kiko2/unsere-neue-homepage.html",
-            "url": "https://github.com/halli77/kiko2/unsere-neue-homepage.html",
+            "id": "https://halli77.github.io/kiko2/unsere-neue-homepage.html",
+            "url": "https://halli77.github.io/kiko2/unsere-neue-homepage.html",
             "title": "Unsere neue Homepage",
             "summary": "Hallo, lieber Besucher, seit heute haben wir eine neue Homepage. Viel Spaß!",
             "content_html": "<p>Hallo, lieber Besucher,</p>\n<p>seit heute haben wir eine neue Homepage.</p>\n<p>Viel Spaß!</p>",
-            "image": "https://github.com/halli77/kiko2/media/posts/2/IMG_8208.jpeg",
+            "image": "https://halli77.github.io/kiko2/media/posts/2/IMG_8208.jpeg",
             "author": {
                 "name": "Michael"
             },

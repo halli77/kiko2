@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Kirchenchor Lauchringen</title>
+    <link href="https://github.com/halli77/kiko2/feed.xml" rel="self" />
+    <link href="https://github.com/halli77/kiko2" />
+    <updated>2026-02-23T16:15:20+01:00</updated>
+    <author>
+        <name>Michael</name>
+    </author>
+    <id>https://github.com/halli77/kiko2</id>
+
+    <entry>
+        <title>Unsere neue Homepage</title>
+        <author>
+            <name>Michael</name>
+        </author>
+        <link href="https://github.com/halli77/kiko2/unsere-neue-homepage.html"/>
+        <id>https://github.com/halli77/kiko2/unsere-neue-homepage.html</id>
+        <media:content url="https://github.com/halli77/kiko2/media/posts/2/IMG_8208.jpeg" medium="image" />
+
+        <updated>2026-02-23T15:54:07+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://github.com/halli77/kiko2/media/posts/2/IMG_8208.jpeg" alt="" />
+                    Hallo, lieber Besucher, seit heute haben wir eine neue Homepage. Viel Spaß!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://github.com/halli77/kiko2/media/posts/2/IMG_8208.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>Hallo, lieber Besucher,</p>
+<p>seit heute haben wir eine neue Homepage.</p>
+<p>Viel Spaß!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

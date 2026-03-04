@@ -3,12 +3,86 @@
     <title>Kirchenchor Lauchringen</title>
     <link href="https://halli77.github.io/kiko2/feed.xml" rel="self" />
     <link href="https://halli77.github.io/kiko2" />
-    <updated>2026-03-02T09:30:11+01:00</updated>
+    <updated>2026-03-04T11:33:04+01:00</updated>
     <author>
         <name>Michael</name>
     </author>
     <id>https://halli77.github.io/kiko2</id>
 
+    <entry>
+        <title>Neue Bildergallerie</title>
+        <author>
+            <name>Michael</name>
+        </author>
+        <link href="https://halli77.github.io/kiko2/neue-bildergallerie.html"/>
+        <id>https://halli77.github.io/kiko2/neue-bildergallerie.html</id>
+        <media:content url="https://halli77.github.io/kiko2/media/posts/11/IMG_8255.jpeg" medium="image" />
+
+        <updated>2026-03-04T11:24:25+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://halli77.github.io/kiko2/media/posts/11/IMG_8255.jpeg" alt="" />
+                    <p>Jezt mit Plugin</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://halli77.github.io/kiko2/media/posts/11/IMG_8255.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>Jezt mit Plugin</p>
+
+<p>Insta:</p>
+<p>[fi=instagram]</p>
+<p> </p>
+<p>Hier kommt es:</p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8242.jpeg" data-size="4032x3024"><img loading="lazy" src="https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8242-thumbnail.webp" alt="Alt" width="720" height="540"></a>
+<figcaption>Caption</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8240.jpeg" data-size="4032x3024"><img loading="lazy" src="https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8240-thumbnail.webp" alt="Alt" width="720" height="540"></a>
+<figcaption>Caption</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8239.jpeg" data-size="4032x3024"><img loading="lazy" src="https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8239-thumbnail.webp" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8238.jpeg" data-size="4032x3024"><img loading="lazy" src="https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8238-thumbnail.webp" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8237.jpeg" data-size="4032x3024"><img loading="lazy" src="https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8237-thumbnail.webp" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8236.jpeg" data-size="4032x3024"><img loading="lazy" src="https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8236-thumbnail.webp" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8235.jpeg" data-size="4032x3024"><img loading="lazy" src="https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8235-thumbnail.webp" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8234.jpeg" data-size="4032x3024"><img loading="lazy" src="https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8234-thumbnail.webp" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8233.jpeg" data-size="4032x3024"><img loading="lazy" src="https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8233-thumbnail.webp" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8232.jpeg" data-size="4032x3024"><img loading="lazy" src="https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8232-thumbnail.webp" alt="" width="720" height="540"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bildergalerie</title>
+        <author>
+            <name>Michael</name>
+        </author>
+        <link href="https://halli77.github.io/kiko2/bildergalerie.html"/>
+        <id>https://halli77.github.io/kiko2/bildergalerie.html</id>
+        <media:content url="https://halli77.github.io/kiko2/media/posts/10/8500AC7E-CC5B-41E7-93D7-3D6EBF77DC75.png" medium="image" />
+
+        <updated>2026-03-04T11:11:58+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://halli77.github.io/kiko2/media/posts/10/8500AC7E-CC5B-41E7-93D7-3D6EBF77DC75.png" alt="" />
+                    <p>Ein paar Eindrücke unserer Probe ...</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://halli77.github.io/kiko2/media/posts/10/8500AC7E-CC5B-41E7-93D7-3D6EBF77DC75.png" class="type:primaryImage" alt="" /></p>
+                <p>Ein paar Eindrücke unserer Probe ...</p>
+
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="true" data-translation="Add images"> </div></div>
+<figure class="post__image"><img loading="lazy"  src="https://halli77.github.io/kiko2/media/posts/10/77F10FCA-6ED6-44B7-93C2-C9034C8B53ED_1_105_c.jpeg" alt="" width="1024" height="768" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://halli77.github.io/kiko2/media/posts/10/responsive/77F10FCA-6ED6-44B7-93C2-C9034C8B53ED_1_105_c-xs.webp 640w ,https://halli77.github.io/kiko2/media/posts/10/responsive/77F10FCA-6ED6-44B7-93C2-C9034C8B53ED_1_105_c-sm.webp 768w ,https://halli77.github.io/kiko2/media/posts/10/responsive/77F10FCA-6ED6-44B7-93C2-C9034C8B53ED_1_105_c-md.webp 1024w ,https://halli77.github.io/kiko2/media/posts/10/responsive/77F10FCA-6ED6-44B7-93C2-C9034C8B53ED_1_105_c-lg.webp 1366w ,https://halli77.github.io/kiko2/media/posts/10/responsive/77F10FCA-6ED6-44B7-93C2-C9034C8B53ED_1_105_c-xl.webp 1600w ,https://halli77.github.io/kiko2/media/posts/10/responsive/77F10FCA-6ED6-44B7-93C2-C9034C8B53ED_1_105_c-2xl.webp 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://halli77.github.io/kiko2/media/posts/10/0304C349-D126-4BBD-8B9A-C36CF4BBBE0E_1_105_c.jpeg" alt="" width="1024" height="768" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://halli77.github.io/kiko2/media/posts/10/responsive/0304C349-D126-4BBD-8B9A-C36CF4BBBE0E_1_105_c-xs.webp 640w ,https://halli77.github.io/kiko2/media/posts/10/responsive/0304C349-D126-4BBD-8B9A-C36CF4BBBE0E_1_105_c-sm.webp 768w ,https://halli77.github.io/kiko2/media/posts/10/responsive/0304C349-D126-4BBD-8B9A-C36CF4BBBE0E_1_105_c-md.webp 1024w ,https://halli77.github.io/kiko2/media/posts/10/responsive/0304C349-D126-4BBD-8B9A-C36CF4BBBE0E_1_105_c-lg.webp 1366w ,https://halli77.github.io/kiko2/media/posts/10/responsive/0304C349-D126-4BBD-8B9A-C36CF4BBBE0E_1_105_c-xl.webp 1600w ,https://halli77.github.io/kiko2/media/posts/10/responsive/0304C349-D126-4BBD-8B9A-C36CF4BBBE0E_1_105_c-2xl.webp 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://halli77.github.io/kiko2/media/posts/10/58F30A8B-D5E3-468D-B180-D37EDAF4BCA7_1_105_c.jpeg" alt="" width="1024" height="768" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://halli77.github.io/kiko2/media/posts/10/responsive/58F30A8B-D5E3-468D-B180-D37EDAF4BCA7_1_105_c-xs.webp 640w ,https://halli77.github.io/kiko2/media/posts/10/responsive/58F30A8B-D5E3-468D-B180-D37EDAF4BCA7_1_105_c-sm.webp 768w ,https://halli77.github.io/kiko2/media/posts/10/responsive/58F30A8B-D5E3-468D-B180-D37EDAF4BCA7_1_105_c-md.webp 1024w ,https://halli77.github.io/kiko2/media/posts/10/responsive/58F30A8B-D5E3-468D-B180-D37EDAF4BCA7_1_105_c-lg.webp 1366w ,https://halli77.github.io/kiko2/media/posts/10/responsive/58F30A8B-D5E3-468D-B180-D37EDAF4BCA7_1_105_c-xl.webp 1600w ,https://halli77.github.io/kiko2/media/posts/10/responsive/58F30A8B-D5E3-468D-B180-D37EDAF4BCA7_1_105_c-2xl.webp 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Jubiläumskonzert 100 Jahre Chor</title>
         <author>

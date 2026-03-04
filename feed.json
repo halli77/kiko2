@@ -5,11 +5,41 @@
     "home_page_url": "https://halli77.github.io/kiko2",
     "feed_url": "https://halli77.github.io/kiko2/feed.json",
     "user_comment": "",
-    "icon": "https://halli77.github.io/kiko2/media/website/logo8-removebg-preview.png",
+    "icon": "https://halli77.github.io/kiko2/media/website/logo10-removebg-preview.png",
     "author": {
         "name": "Michael"
     },
     "items": [
+        {
+            "id": "https://halli77.github.io/kiko2/neue-bildergallerie.html",
+            "url": "https://halli77.github.io/kiko2/neue-bildergallerie.html",
+            "title": "Neue Bildergallerie",
+            "summary": "<p>Jezt mit Plugin</p>\n",
+            "content_html": "<p>Jezt mit Plugin</p>\n\n<p>Insta:</p>\n<p>[fi=instagram]</p>\n<p> </p>\n<p>Hier kommt es:</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8242.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8242-thumbnail.webp\" alt=\"Alt\" width=\"720\" height=\"540\"></a>\n<figcaption>Caption</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8240.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8240-thumbnail.webp\" alt=\"Alt\" width=\"720\" height=\"540\"></a>\n<figcaption>Caption</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8239.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8239-thumbnail.webp\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8238.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8238-thumbnail.webp\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8237.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8237-thumbnail.webp\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8236.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8236-thumbnail.webp\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8235.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8235-thumbnail.webp\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8234.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8234-thumbnail.webp\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8233.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8233-thumbnail.webp\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8232.jpeg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://halli77.github.io/kiko2/media/posts/11/gallery/IMG_8232-thumbnail.webp\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n</div></div>",
+            "image": "https://halli77.github.io/kiko2/media/posts/11/IMG_8255.jpeg",
+            "author": {
+                "name": "Michael"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-04T11:24:25+01:00",
+            "date_modified": "2026-03-04T11:33:04+01:00"
+        },
+        {
+            "id": "https://halli77.github.io/kiko2/bildergalerie.html",
+            "url": "https://halli77.github.io/kiko2/bildergalerie.html",
+            "title": "Bildergalerie",
+            "summary": "<p>Ein paar Eindrücke unserer Probe ...</p>\n",
+            "content_html": "<p>Ein paar Eindrücke unserer Probe ...</p>\n\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"true\" data-translation=\"Add images\"> </div></div>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://halli77.github.io/kiko2/media/posts/10/77F10FCA-6ED6-44B7-93C2-C9034C8B53ED_1_105_c.jpeg\" alt=\"\" width=\"1024\" height=\"768\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://halli77.github.io/kiko2/media/posts/10/responsive/77F10FCA-6ED6-44B7-93C2-C9034C8B53ED_1_105_c-xs.webp 640w ,https://halli77.github.io/kiko2/media/posts/10/responsive/77F10FCA-6ED6-44B7-93C2-C9034C8B53ED_1_105_c-sm.webp 768w ,https://halli77.github.io/kiko2/media/posts/10/responsive/77F10FCA-6ED6-44B7-93C2-C9034C8B53ED_1_105_c-md.webp 1024w ,https://halli77.github.io/kiko2/media/posts/10/responsive/77F10FCA-6ED6-44B7-93C2-C9034C8B53ED_1_105_c-lg.webp 1366w ,https://halli77.github.io/kiko2/media/posts/10/responsive/77F10FCA-6ED6-44B7-93C2-C9034C8B53ED_1_105_c-xl.webp 1600w ,https://halli77.github.io/kiko2/media/posts/10/responsive/77F10FCA-6ED6-44B7-93C2-C9034C8B53ED_1_105_c-2xl.webp 1920w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://halli77.github.io/kiko2/media/posts/10/0304C349-D126-4BBD-8B9A-C36CF4BBBE0E_1_105_c.jpeg\" alt=\"\" width=\"1024\" height=\"768\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://halli77.github.io/kiko2/media/posts/10/responsive/0304C349-D126-4BBD-8B9A-C36CF4BBBE0E_1_105_c-xs.webp 640w ,https://halli77.github.io/kiko2/media/posts/10/responsive/0304C349-D126-4BBD-8B9A-C36CF4BBBE0E_1_105_c-sm.webp 768w ,https://halli77.github.io/kiko2/media/posts/10/responsive/0304C349-D126-4BBD-8B9A-C36CF4BBBE0E_1_105_c-md.webp 1024w ,https://halli77.github.io/kiko2/media/posts/10/responsive/0304C349-D126-4BBD-8B9A-C36CF4BBBE0E_1_105_c-lg.webp 1366w ,https://halli77.github.io/kiko2/media/posts/10/responsive/0304C349-D126-4BBD-8B9A-C36CF4BBBE0E_1_105_c-xl.webp 1600w ,https://halli77.github.io/kiko2/media/posts/10/responsive/0304C349-D126-4BBD-8B9A-C36CF4BBBE0E_1_105_c-2xl.webp 1920w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://halli77.github.io/kiko2/media/posts/10/58F30A8B-D5E3-468D-B180-D37EDAF4BCA7_1_105_c.jpeg\" alt=\"\" width=\"1024\" height=\"768\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://halli77.github.io/kiko2/media/posts/10/responsive/58F30A8B-D5E3-468D-B180-D37EDAF4BCA7_1_105_c-xs.webp 640w ,https://halli77.github.io/kiko2/media/posts/10/responsive/58F30A8B-D5E3-468D-B180-D37EDAF4BCA7_1_105_c-sm.webp 768w ,https://halli77.github.io/kiko2/media/posts/10/responsive/58F30A8B-D5E3-468D-B180-D37EDAF4BCA7_1_105_c-md.webp 1024w ,https://halli77.github.io/kiko2/media/posts/10/responsive/58F30A8B-D5E3-468D-B180-D37EDAF4BCA7_1_105_c-lg.webp 1366w ,https://halli77.github.io/kiko2/media/posts/10/responsive/58F30A8B-D5E3-468D-B180-D37EDAF4BCA7_1_105_c-xl.webp 1600w ,https://halli77.github.io/kiko2/media/posts/10/responsive/58F30A8B-D5E3-468D-B180-D37EDAF4BCA7_1_105_c-2xl.webp 1920w\"></figure>",
+            "image": "https://halli77.github.io/kiko2/media/posts/10/8500AC7E-CC5B-41E7-93D7-3D6EBF77DC75.png",
+            "author": {
+                "name": "Michael"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-04T11:11:58+01:00",
+            "date_modified": "2026-03-04T11:11:58+01:00"
+        },
         {
             "id": "https://halli77.github.io/kiko2/jubilaeumskonzert-100-jahre-chor.html",
             "url": "https://halli77.github.io/kiko2/jubilaeumskonzert-100-jahre-chor.html",
